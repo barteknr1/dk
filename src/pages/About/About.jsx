@@ -1,6 +1,8 @@
+import AboutUs from "../../components/AboutUs/AboutUs";
+
 const About = () => {
   return (
-    <h3>About</h3>
+    <AboutUs />
   )
 };
 

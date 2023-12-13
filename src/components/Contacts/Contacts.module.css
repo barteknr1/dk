@@ -1,0 +1,8 @@
+.contacts {
+	display: flex;
+	gap: 20px;
+}
+.contacts a {
+	color: red;
+	width: 100%;
+}
