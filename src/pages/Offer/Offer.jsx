@@ -1,6 +1,6 @@
 const Offer = () => {
   return (
-    <h3>Offer</h3>
+    <h3>Oferta</h3>
   )
 };
 
